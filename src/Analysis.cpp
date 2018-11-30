@@ -5,7 +5,7 @@
  */
 #include "Analysis.h"
 #include "tpanic.h"
-
+//Karol mandou fazer
 
 using namespace std;
 
