@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../headers/TMatrix.h
+TVecNum.h
+../headers/TVecNum.h
+iostream
+-
+stdio.h
+-
+vector
+-
+
+../headers/TVec.h
+stdio.h
+-
+iostream
+-
+
+../headers/TVecNum.h
+stdio.h
+-
+iostream
+-
+TVec.h
+../headers/TVec.h
+
+/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/mainprograms/main.cpp
+iostream
+-
+math.h
+-
+TMatrix.h
+-
+

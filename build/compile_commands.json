@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/main.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/mainprograms/main.cpp",
+  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/mainprograms/main.cpp"
+}
+]

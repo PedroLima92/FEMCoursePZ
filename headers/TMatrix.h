@@ -19,17 +19,17 @@ typedef std::vector<double> VecDouble;
 class TMatrix{
   
 public:
-  ///Construtor vazio;
+  //Empty Constructor;
   TMatrix ();
   
   
-  ///Cosntrutor da matriz com row`s linhas e col`s colunas;
+  ///Construtor da matriz com row`s linhas e col`s colunas;
   TMatrix (int row, int col, double val = 0.);
   
   ///Destrutor;
   ~TMatrix ();
   
-  ///Contrutor de cpoia. Recebe os valores de copia por referencia;
+  ///Contrutor de copia. Recebe os valores de copia por referencia;
   TMatrix(const TMatrix &cp);
   
   ///Funcoes/Objetos
