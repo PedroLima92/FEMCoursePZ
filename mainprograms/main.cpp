@@ -14,7 +14,7 @@ int main ()
     cout<<"Polinomio:\n";
     cout<<"     f(x) = 2 + x -x^2\n\n";
     cout<<"Integrando de 0 a 0.8\n\n";
-    VecDouble f[] = {2,1,-1};
+    VecDouble f = {2,1,-1};
     
     return 0;
 }

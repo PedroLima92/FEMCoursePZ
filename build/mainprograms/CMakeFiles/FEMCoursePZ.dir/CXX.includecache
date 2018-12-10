@@ -6,6 +6,32 @@
 
 #IncludeRegexTransform: 
 
+../headers/DataTypes.h
+cmath
+-
+stdio.h
+-
+vector
+-
+TMatrix.h
+../headers/TMatrix.h
+
+../headers/IntRule.h
+cmath
+-
+stdio.h
+-
+DataTypes.h
+../headers/DataTypes.h
+
+../headers/IntRule1d.h
+cmath
+-
+stdio.h
+-
+IntRule.h
+../headers/IntRule.h
+
 ../headers/TMatrix.h
 TVecNum.h
 ../headers/TVecNum.h
@@ -36,5 +62,7 @@ iostream
 math.h
 -
 TMatrix.h
+-
+IntRule1d.h
 -
 
