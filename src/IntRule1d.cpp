@@ -11,13 +11,13 @@ using namespace std;
 
 #define PI 3.141592654
 
-IntRule1d::IntRule1d()
+IntRule1d::IntRule1d() : IntRule()
 {
     std::cout<<"Empty constructor: IntRule1d()";
     DebugStop();
 }
 
-IntRule1d::IntRule1d(int order)
+IntRule1d::IntRule1d(int order) : IntRule()
 {
     if (order < 0)
     {
@@ -32,8 +32,8 @@ void IntRule1d::gauleg(const double x1, const double x2, VecDouble &x, VecDouble
     double z1, z, pp, p1, p2, p3;
     const double EPS = 1.0e-14;
 
-    int n = x.size();
-    int m = (n + 1) / 2;
+    int npts = x.size();
+    int m = (npts + 1) / 2;
 
     double xm = 0.5 * (x2 + x1);
     double xl = 0.5 * (x2 - x1);
@@ -41,40 +41,40 @@ void IntRule1d::gauleg(const double x1, const double x2, VecDouble &x, VecDouble
 
     for (int i = 0; i < m; i++)
     {
-
-        z = cos(PI * (i + 0.75) / (n + 0.5));
+        z = cos(PI * (i + 0.75) / (npts + 0.5));
         pp = 0;
 
         while (fabs(z - z1) > EPS)
         {
             p1 = 1.0;
             p2 = 0.0;
-            for (int j = 0; j < n; j++)
+            for (int j = 0; j < npts; j++)
             {
                 p3 = p2;
                 p2 = p1;
                 p1 = ((2.0 * j + 1.0) * z * p2 - j * p3) / (j + 1);
             }
-            pp = n * (z * p1 - p2) / (z * z - 1.0);
+            pp = npts * (z * p1 - p2) / (z * z - 1.0);
             z1 = z;
             z = z1 - p1 / pp;
         }
 
         x[i] = xm - xl * z;
-        x[n-1-i] = xm + xl * z;
+        x[npts-1-i] = xm + xl * z;
 
         w[i] = 2.0 * xl / ((1.0 - z * z) * pp * pp);
-        w[n-1-i] = w[i];
+        w[npts-1-i] = w[i];
     }
 }
 
 void IntRule1d::SetOrder(int order)
 {
-    DebugStop();
-    int n = order;
-    fPoints.Resize(n+1,1);
-    fWeights.resize(n+1);
-    switch (n)
+    //DebugStop();
+    fOrder = order;
+    int npts = order+1;
+    fPoints.Resize(npts,1);
+    fWeights.resize(npts);
+    switch (npts)
     {
     case 0:
         fPoints(0, 0) = 0;                      fWeights[0] = 2;
@@ -152,9 +152,9 @@ void IntRule1d::SetOrder(int order)
         fPoints(9, 0) =  0.14887433898163122;   fWeights[9] =  0.29552422471475287;
         break;
     default:
-        VecDouble vecfPoints(n+1);
+        VecDouble vecfPoints(npts);
         this->gauleg(-1, 1, vecfPoints, fWeights);
-        for (int i = 0; i <= n; i++)
+        for (int i = 0; i <= npts; i++)
         {
             fPoints(i, 0) = vecfPoints[i];
         }
