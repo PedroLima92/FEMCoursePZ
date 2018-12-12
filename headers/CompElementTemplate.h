@@ -20,7 +20,7 @@ class CompElementTemplate : public CompElement
     std::vector<int64_t> dofindexes;
     
     // Integration rule object
-    typename Shape::LocIntRule intrule;
+    // typename Shape::LocIntRule intrule;
     
 public:
     

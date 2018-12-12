@@ -15,7 +15,7 @@ class TopologyQuad
 public:
     
     // Type definition of integration rule for quadrilateral elements
-    typedef IntRuleQuad LocIntRule;
+    // typedef IntRuleQuad LocIntRule;
     
     // Number of sides associated with quadrilateral elements elements
     const static int nSides = 9;
@@ -33,7 +33,7 @@ public:
     static int SideNodeIndex(int side, int node);
     
     // Return the enumerated element type
-    static ElementType Type();
+    // static ElementType Type();
 };
 
 

@@ -25,10 +25,10 @@ public:
     IntRule1d(int order){};
     
     // Method to set polynomial order of the integration rule 1D
-    // virtual void SetOrder(int order);
+    virtual void SetOrder(int order);
     
-    // // Integration rule 1D method obtained from Numerical Recipes
-    // void gauleg(const double x1, const double x2, VecDouble &x, VecDouble &w);
+    // Integration rule 1D method obtained from Numerical Recipes
+    void gauleg(const double x1, const double x2, VecDouble &x, VecDouble &w);
     
 };
 

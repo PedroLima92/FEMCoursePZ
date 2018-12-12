@@ -1,13 +1,13 @@
-// //
-// //  IntRuleTriangle.cpp
-// //  FemSC
-// //
-// //  Created by Philippe Devloo on 7/30/15.
-// //
-// //
+//
+//  IntRuleTriangle.cpp
+//  FemSC
+//
+//  Created by Philippe Devloo on 7/30/15.
+//
+//
 
-// #include "IntRuleTetrahedron.h"
-// #include "tpanic.h"
+#include "IntRuleTetrahedron.h"
+#include "tpanic.h"
 
 // int ComputingSymmetricCubatureRule(int order, Matrix &Points, VecDouble &Weights);
 // void TransformBarycentricCoordInCartesianCoord(long double baryvec[], long double weightvec[], Matrix &Points, VecDouble &Weight);

@@ -35,35 +35,35 @@ public:
     // Constructor of integration rule
     IntRule(int order){};
     
-    // // Destructor of integration rule
-    // ~IntRule();
+    // Destructor of integration rule
+    ~IntRule();
     
-    // // Operator of copy
-    // virtual IntRule &operator=(const IntRule &copy);
+    // Operator of copy
+    virtual IntRule &operator=(const IntRule &copy);
     
-    // // Copy constructor of integration rule
-    // IntRule(const IntRule &copy);
+    // Copy constructor of integration rule
+    IntRule(const IntRule &copy);
     
-    // // Method to set polynomial order of the integration rule
-    // virtual void SetOrder(int order)
-    // {
-    //     fOrder=order;
-    // }
+    // Method to set polynomial order of the integration rule
+    virtual void SetOrder(int order)
+    {
+        fOrder=order;
+    }
     
-    // // Method to get polynomial order of the integration rule
-    // virtual int GetOrder()
-    // {
-    //     return fOrder;
-    // }
+    // Method to get polynomial order of the integration rule
+    virtual int GetOrder()
+    {
+        return fOrder;
+    }
     
-    // // Method to return the number of integration points
-    // virtual int NPoints() const;
+    // Method to return the number of integration points
+    virtual int NPoints() const;
     
-    // // Function returning coordinates and weights of integration points
-    // virtual void Point(int p, VecDouble &co, double &weight) const;
+    // Function returning coordinates and weights of integration points
+    virtual void Point(int p, VecDouble &co, double &weight) const;
     
-    // // Function for printing results
-    // virtual void Print(std::ostream &out);
+    // Function for printing results
+    virtual void Print(std::ostream &out);
     
 };
 

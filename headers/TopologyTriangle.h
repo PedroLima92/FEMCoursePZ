@@ -15,7 +15,7 @@ class TopologyTriangle
 public:
 
     // Type definition of integration rule for triangle elements
-    typedef IntRuleTriangle LocIntRule;
+    // typedef IntRuleTriangle LocIntRule;
     
     // Number of sides associated with triangle elements elements
     static const int nSides = 7;
@@ -33,7 +33,7 @@ public:
     static int SideNodeIndex(int side, int node);
     
     // Return the enumerated element type
-    static ElementType Type();
+    // static ElementType Type();
 };
 
 

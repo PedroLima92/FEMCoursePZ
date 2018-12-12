@@ -24,14 +24,6 @@ stdio.h
 DataTypes.h
 ../headers/DataTypes.h
 
-../headers/IntRule1d.h
-cmath
--
-stdio.h
--
-IntRule.h
-../headers/IntRule.h
-
 ../headers/TMatrix.h
 TVecNum.h
 ../headers/TVecNum.h
@@ -56,15 +48,15 @@ iostream
 TVec.h
 ../headers/TVec.h
 
-/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/mainprograms/main.cpp
+../headers/tpanic.h
 iostream
 -
-math.h
+exception
 -
-TMatrix.h
--
+
+/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule.cpp
 IntRule.h
-/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/mainprograms/IntRule.h
-IntRule1d.h
--
+/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule.h
+tpanic.h
+/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/tpanic.h
 
