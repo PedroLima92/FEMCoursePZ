@@ -1,5 +1,5 @@
 # @file FEMCoursePZ/headers/CMakeLists.txt  -- CMake file for the Headers module
 
-file(GLOB sources *.cpp)
+file(GLOB src *.cpp)
 
-set(SOURCES ${sources} PARENT_SCOPE)
+set(SOURCES ${src} PARENT_SCOPE)
