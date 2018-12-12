@@ -5,6 +5,10 @@
  */
 
 #include "GeoElementTemplate.h"
+#include "Geom1d.h"
+#include "GeomQuad.h"
+#include "GeomTriangle.h"
+#include "GeomTetrahedron.h"
 #include "tpanic.h"
 
 using namespace std;

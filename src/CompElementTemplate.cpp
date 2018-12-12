@@ -4,6 +4,11 @@
  * and open the template in the editor.
  */
 #include "CompElementTemplate.h"
+#include "Shape1d.h"
+#include "ShapeQuad.h"
+#include "ShapeTriangle.h"
+#include "ShapeTetrahedron.h"
+#include "CompElementTemplate.h"
 #include "tpanic.h"
 
 template<class Shape>

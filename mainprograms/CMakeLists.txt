@@ -1,5 +1,5 @@
 
-add_executable(FEMCoursePZ main.cpp ${FemSCSOURCE})
+add_executable(FEMCoursePZ main.cpp ${SOURCES})
 
 if(USING_PZ)
  target_link_libraries(FEMCoursePZ pz)

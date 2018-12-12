@@ -206,11 +206,9 @@ void TVec<T>::Print(std::ostream &out) const
 
 
 
-#include "tno.h"
 class TElemento;
 
 template class TVec<double>;
 template class TVec<int>;
-template class TVec<TNo>;
 template class TVec<TElemento *>;
 
