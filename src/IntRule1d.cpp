@@ -31,7 +31,7 @@ IntRule1d::IntRule1d(int order)
 
 void IntRule1d::gauleg(const double x1, const double x2, VecDouble &x, VecDouble &w)
 { //taken from PRESS et al (2003) - p204pt
-    double z1, z, pp, p1, p2, p3;
+    double z, pp, p1, p2, p3;
     const double EPS = 1.0e-14;
 
     int npts = x.size();

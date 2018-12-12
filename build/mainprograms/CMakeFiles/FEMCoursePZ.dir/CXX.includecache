@@ -24,6 +24,14 @@ stdio.h
 DataTypes.h
 ../headers/DataTypes.h
 
+../headers/IntRule1d.h
+cmath
+-
+stdio.h
+-
+IntRule.h
+../headers/IntRule.h
+
 ../headers/TMatrix.h
 TVecNum.h
 ../headers/TVecNum.h
@@ -54,9 +62,9 @@ iostream
 exception
 -
 
-/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule.cpp
-IntRule.h
-/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule.h
+/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule1d.cpp
+IntRule1d.h
+/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule1d.h
 tpanic.h
 /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/tpanic.h
 

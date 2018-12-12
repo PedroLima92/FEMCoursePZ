@@ -63,7 +63,7 @@ public:
     virtual void Point(int p, VecDouble &co, double &weight) const;
     
     // Function for printing results
-    virtual void Print(std::ostream &out);
+    virtual void Print(std::ostream &out) const;
     
 };
 
