@@ -13,7 +13,7 @@ using std::cin;
 int main ()
 {
     
-    IntRule * integralteste = new IntRule1d();
-    //integralteste.Print(std::cout);
+    IntRule1d integralteste;
+    integralteste.Print(std::cout);
     return 0;
 }

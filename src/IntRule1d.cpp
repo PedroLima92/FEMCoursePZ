@@ -26,6 +26,9 @@ IntRule1d::IntRule1d(int order)
         std::cout << "Error: Invalid argument: IntRule1d\n";
         DebugStop();
     }
+    fOrder = order;
+    fPoints.Resize(npts,1);
+    fWeights.resize(npts);
     SetOrder(order);
 }
 
@@ -72,10 +75,7 @@ void IntRule1d::gauleg(const double x1, const double x2, VecDouble &x, VecDouble
 void IntRule1d::SetOrder(int order)
 {
     //DebugStop();
-    fOrder = order;
     int npts = order+1;
-    fPoints.Resize(npts,1);
-    fWeights.resize(npts);
     switch (npts)
     {
     case 0:
