@@ -1,192 +1,192 @@
 [
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/main.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/mainprograms/main.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/mainprograms/main.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/main.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/mainprograms/main.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/mainprograms/main.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Analysis.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Analysis.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Analysis.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Analysis.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/Analysis.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/Analysis.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Assemble.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Assemble.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Assemble.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Assemble.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/Assemble.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/Assemble.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/CompElement.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/CompElement.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/CompElement.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/CompElement.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/CompElement.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/CompElement.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/CompElementTemplate.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/CompElementTemplate.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/CompElementTemplate.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/CompElementTemplate.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/CompElementTemplate.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/CompElementTemplate.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/CompMesh.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/CompMesh.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/CompMesh.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/CompMesh.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/CompMesh.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/CompMesh.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/DOF.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/DOF.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/DOF.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/DOF.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/DOF.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/DOF.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoElement.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoElement.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoElement.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoElement.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/GeoElement.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/GeoElement.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoElementSide.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoElementSide.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoElementSide.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoElementSide.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/GeoElementSide.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/GeoElementSide.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoElementTemplate.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoElementTemplate.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoElementTemplate.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoElementTemplate.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/GeoElementTemplate.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/GeoElementTemplate.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoMesh.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoMesh.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoMesh.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoMesh.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/GeoMesh.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/GeoMesh.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoNode.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoNode.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeoNode.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeoNode.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/GeoNode.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/GeoNode.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Geom1d.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Geom1d.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Geom1d.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Geom1d.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/Geom1d.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/Geom1d.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeomQuad.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeomQuad.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeomQuad.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeomQuad.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/GeomQuad.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/GeomQuad.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeomTetrahedron.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeomTetrahedron.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeomTetrahedron.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeomTetrahedron.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/GeomTetrahedron.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/GeomTetrahedron.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeomTriangle.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeomTriangle.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/GeomTriangle.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/GeomTriangle.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/GeomTriangle.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/GeomTriangle.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRule.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRule.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/IntRule.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/IntRule.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRule1d.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule1d.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRule1d.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRule1d.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/IntRule1d.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/IntRule1d.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRuleQuad.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRuleQuad.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRuleQuad.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRuleQuad.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/IntRuleQuad.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/IntRuleQuad.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRuleTetrahedron.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRuleTetrahedron.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRuleTetrahedron.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRuleTetrahedron.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/IntRuleTetrahedron.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/IntRuleTetrahedron.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRuleTriangle.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRuleTriangle.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/IntRuleTriangle.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/IntRuleTriangle.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/IntRuleTriangle.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/IntRuleTriangle.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/L2Projection.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/L2Projection.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/L2Projection.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/L2Projection.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/L2Projection.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/L2Projection.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/MathStatement.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/MathStatement.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/MathStatement.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/MathStatement.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/MathStatement.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/MathStatement.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Poisson.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Poisson.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Poisson.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Poisson.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/Poisson.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/Poisson.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/PostProcess.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/PostProcess.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/PostProcess.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/PostProcess.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/PostProcess.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/PostProcess.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/ReadGmsh.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/ReadGmsh.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/ReadGmsh.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/ReadGmsh.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/ReadGmsh.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/ReadGmsh.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Shape1d.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Shape1d.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Shape1d.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Shape1d.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/Shape1d.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/Shape1d.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/ShapeQuad.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/ShapeQuad.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/ShapeQuad.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/ShapeQuad.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/ShapeQuad.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/ShapeQuad.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/ShapeTetrahedron.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/ShapeTetrahedron.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/ShapeTetrahedron.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/ShapeTetrahedron.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/ShapeTetrahedron.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/ShapeTetrahedron.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/ShapeTriangle.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/ShapeTriangle.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/ShapeTriangle.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/ShapeTriangle.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/ShapeTriangle.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/ShapeTriangle.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TMatrix.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TMatrix.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TMatrix.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TMatrix.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/TMatrix.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/TMatrix.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TVec.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TVec.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TVec.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TVec.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/TVec.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/TVec.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TVecNum.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TVecNum.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TVecNum.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TVecNum.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/TVecNum.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/TVecNum.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Topology1d.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Topology1d.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/Topology1d.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/Topology1d.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/Topology1d.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/Topology1d.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TopologyQuad.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TopologyQuad.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TopologyQuad.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TopologyQuad.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/TopologyQuad.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/TopologyQuad.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TopologyTetrahedron.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TopologyTetrahedron.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TopologyTetrahedron.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TopologyTetrahedron.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/TopologyTetrahedron.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/TopologyTetrahedron.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TopologyTriangle.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TopologyTriangle.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/TopologyTriangle.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/TopologyTriangle.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/TopologyTriangle.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/TopologyTriangle.cpp"
 },
 {
-  "directory": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/build/mainprograms",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/headers -I/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/VTKGeoMesh.cpp.o -c /home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/VTKGeoMesh.cpp",
-  "file": "/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/src/VTKGeoMesh.cpp"
+  "directory": "/Users/pedro/projetos/FEMCoursePZ/build/mainprograms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/pedro/projetos/FEMCoursePZ/headers -I/Users/pedro/projetos/FEMCoursePZ/tinyxml  -g   -std=gnu++11 -o CMakeFiles/FEMCoursePZ.dir/__/src/VTKGeoMesh.cpp.o -c /Users/pedro/projetos/FEMCoursePZ/src/VTKGeoMesh.cpp",
+  "file": "/Users/pedro/projetos/FEMCoursePZ/src/VTKGeoMesh.cpp"
 }
 ]
