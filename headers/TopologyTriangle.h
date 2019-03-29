@@ -9,13 +9,14 @@
 #define TopologyTriangle_h
 
 #include "IntRuleTriangle.h"
+#include "DataTypes.h"
 
 class TopologyTriangle
 {
 public:
 
     // Type definition of integration rule for triangle elements
-    // typedef IntRuleTriangle LocIntRule;
+    typedef IntRuleTriangle LocIntRule;
     
     // Number of sides associated with triangle elements elements
     static const int nSides = 7;

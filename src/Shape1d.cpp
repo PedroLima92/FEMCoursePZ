@@ -7,14 +7,78 @@
 #include "Shape1d.h"
 #include "tpanic.h"
 
-void Shape1d::Shape(const VecDouble& xi, VecInt& orders, VecDouble& phi, Matrix& dphi) {
+void Shape1d::Shape(const VecDouble &xi, VecInt &orders, VecDouble &phi, Matrix &dphi)
+{
+      int n = NShapeFunctions(orders);
+
+      if (orders[0] == 2)
+      {
+            phi.resize(n);
+            dphi.Resize(2, n);
+            n = n - 1;
+      }
+
+      for (int i = 0; i < n; i++)
+      {
+            phi[i] = 1.;
+            dphi(0, i) = 0;
+      }
+
+      for (int i = 0; i < n; i++)
+      {
+            double epsi = 2*i/(n - 1) - 1;
+
+            for (int j = 0; j < n; j++)
+            {
+                  Matrix axdphi(1, n);
+                  if (i != j)
+                  {
+                        double epsj = -1. + j * 2. / (n - 1);
+                        phi[i] *= (xi[0] - epsj) / (epsi - epsj);
+                        axdphi(0, i) = 1 / (epsi - epsj);
+                        for (int k = 0; k < n; k++)
+                        {
+                              if (k != i && k != j)
+                              {
+                                    epsj = -1. + k * 2. / (n - 1);
+                                    axdphi(0, i) *= (xi[0] - epsj) / (epsi - epsj);
+                              }
+                        }
+                        dphi(0, i) += axdphi(0, i);
+                  }
+            }
+      }
+      if (orders[0] == 2)
+      {
+            phi[2] = phi[0] * phi[1];
+            dphi(0, 2) = dphi(0, 0) * phi[1] + phi[0] * dphi(0, 1);
+            phi[2] *= 4.;
+            dphi(0, 2) *= 4.;
+      }
+}
+
+int Shape1d::NShapeFunctions(int side, int order)
+{
+      if (side < 2)
+      {
+            return 1;
+      }
+      else if (side < 3)
+      {
+            return order - 1;
+      }
       DebugStop();
+      return 0;
 }
 
-int Shape1d::NShapeFunctions(int side, int order) {
-    DebugStop();
-}
+int Shape1d::NShapeFunctions(VecInt &orders)
+{
+      int nshape = 0;
+      int n = orders.size();
 
-int Shape1d::NShapeFunctions(VecInt &orders) {
-    DebugStop();
+      for (int i = 0; i < n; i++)
+      {
+            nshape += NShapeFunctions(i, orders[i]);
+      }
+      return nshape;
 }

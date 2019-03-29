@@ -27,6 +27,7 @@ IntRule1d::IntRule1d(int order)
         DebugStop();
     }
     fOrder = order;
+    int npts = order +1;
     fPoints.Resize(npts,1);
     fWeights.resize(npts);
     SetOrder(order);

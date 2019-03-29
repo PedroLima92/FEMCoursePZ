@@ -2,18 +2,27 @@
 
 #include <iostream>
 #include <math.h>
-#include <TMatrix.h>
-#include "IntRule.h"
-#include <IntRule1d.h>
+#include "Topology1d.h"
+#include "TopologyQuad.h"
 
+using std::cin;
 using std::cout;
 using std::endl;
-using std::cin;
 
-int main ()
+int main()
 {
+    std::cout << "\n\n";
+    Topology1d reta;
+    std::cout << "Linear element\n"
+              << "Number of sides = " << reta.nSides << endl
+              << "Number of corners = "<< reta.nCorners << endl
+              << "Dimension = "<< reta.Dimension<< endl <<endl;
     
-    IntRule1d integralteste;
-    integralteste.Print(std::cout);
+    TopologyQuad quadrilatero;
+    std::cout << "Quadrilateral element\n"
+              << "Number of sides = " << quadrilatero.nSides << endl
+              << "Number of corners = "<< quadrilatero.nCorners << endl
+              << "Dimension = "<< quadrilatero.Dimension<< endl <<endl;
+    
     return 0;
 }

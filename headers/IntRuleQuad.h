@@ -1,37 +1,37 @@
-// //
-// //  IntRuleQuad.h
-// //  FEMCoursePZ
-// //
-// //  Created by Philippe Devloo on 7/30/15.
-// //
-// //
+//
+//  IntRuleQuad.h
+//  FEMCoursePZ
+//
+//  Created by Philippe Devloo on 7/30/15.
+//
+//
 
-// #ifndef __FEMCoursePZ__IntRuleQuad__
-// #define __FEMCoursePZ__IntRuleQuad__
+#ifndef __FEMCoursePZ__IntRuleQuad__
+#define __FEMCoursePZ__IntRuleQuad__
 
-// #include <stdio.h>
-// #include "DataTypes.h"
-// #include "IntRule.h"
+#include <stdio.h>
+#include "DataTypes.h"
+#include "IntRule.h"
 
-// class IntRuleQuad : public IntRule
-// {
+class IntRuleQuad : public IntRule
+{
     
 
-//     public:
+    public:
 
-//     // Default Constructor of integration rule for quadrilateral elements
-//     IntRuleQuad();
+    // Default Constructor of integration rule for quadrilateral elements
+    IntRuleQuad();
     
-//     // Constructor of integration rule for quadrilateral elements
-//     IntRuleQuad(int order);
+    // Constructor of integration rule for quadrilateral elements
+    IntRuleQuad(int order);
   
-//     // Method to set polynomial order of the integration rule for quadrilateral elements
-//     virtual void SetOrder(int order);
+    // Method to set polynomial order of the integration rule for quadrilateral elements
+    virtual void SetOrder(int order);
   
-//     // Integration rule 2D (quadrilateral elements) method obtained from Numerical Recipes
-//     void gaulegQuad(const double x1, const double x2, VecDouble &x, VecDouble &w);
+    // Integration rule 2D (quadrilateral elements) method obtained from Numerical Recipes
+    void gaulegQuad(const double x1, const double x2, VecDouble &x, VecDouble &w);
 
-// };
+};
 
 
-// #endif /* defined(__FEMCoursePZ__TIntRule1d__) */
+#endif /* defined(__FEMCoursePZ__TIntRule1d__) */

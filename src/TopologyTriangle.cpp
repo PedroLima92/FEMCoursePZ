@@ -8,13 +8,28 @@
 #include "tpanic.h"
 
 int TopologyTriangle::NSideNodes(int side) {
-    DebugStop();
+    if (side >= nSides) 
+    {
+        std::cout<<"TopologyTriangle::NSideNodes bad parameter\n";
+        DebugStop();
+    }
+    static int nsidenodes[7] = {1, 1, 1, 2, 2, 2, 3};
+    return nsidenodes[side];
 }
 
-int TopologyTriangle::SideNodeIndex(int side, int node) {
+int TopologyTriangle::SideNodeIndex(int side, int node) 
+{
+    if (side < 3 && node == 0)
+        return side;
+    if (side >= 3 && side < 6 && node < 2)
+        return ((side + node) % 3); 
+    if (side == 6)
+        return node;
+    std::cout << "TopologyTriangle::SideNodeIndex bad parameter\n";
     DebugStop();
+    return -1;
 }
 
 ElementType TopologyTriangle::Type() {
-    DebugStop();
+    return ETriangle;
 }

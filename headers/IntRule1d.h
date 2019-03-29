@@ -19,10 +19,10 @@ class IntRule1d : public IntRule
 public:
   
     // Default Constructor of integration rule 1D
-    IntRule1d(){};
+    IntRule1d();
     
     // Constructor of integration rule 1D
-    IntRule1d(int order){};
+    IntRule1d(int order);
     
     // Method to set polynomial order of the integration rule 1D
     virtual void SetOrder(int order);

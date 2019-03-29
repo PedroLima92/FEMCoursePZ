@@ -32,6 +32,8 @@ stdio.h
 IntRule.h
 ../headers/IntRule.h
 
+../headers/IntRuleQuad.h
+
 ../headers/TMatrix.h
 TVecNum.h
 ../headers/TVecNum.h
@@ -56,15 +58,25 @@ iostream
 TVec.h
 ../headers/TVec.h
 
-/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/mainprograms/main.cpp
+../headers/Topology1d.h
+DataTypes.h
+../headers/DataTypes.h
+IntRule1d.h
+../headers/IntRule1d.h
+
+../headers/TopologyQuad.h
+IntRuleQuad.h
+../headers/IntRuleQuad.h
+DataTypes.h
+../headers/DataTypes.h
+
+/Users/pedro/projetos/FEMCoursePZ/mainprograms/main.cpp
 iostream
 -
 math.h
 -
-TMatrix.h
--
-IntRule.h
-/home/pedrolima/Desktop/Unicamp/FEMCoursePZ/mainprograms/IntRule.h
-IntRule1d.h
--
+Topology1d.h
+/Users/pedro/projetos/FEMCoursePZ/mainprograms/Topology1d.h
+TopologyQuad.h
+/Users/pedro/projetos/FEMCoursePZ/mainprograms/TopologyQuad.h
 

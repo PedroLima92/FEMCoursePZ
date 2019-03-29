@@ -30,10 +30,10 @@ protected:
 public:
   
     // Default Constructor of integration rule
-    IntRule(){};
+    IntRule();
     
     // Constructor of integration rule
-    IntRule(int order){};
+    IntRule(int order);
     
     // Destructor of integration rule
     ~IntRule();

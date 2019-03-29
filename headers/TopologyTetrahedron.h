@@ -9,13 +9,14 @@
 #define TopologyTetrahedron_h
 
 #include "IntRuleTetrahedron.h"
+#include "DataTypes.h"
 
 class TopologyTetrahedron
 {
 public:
     
     // Type definition of integration rule for tetrahedron elements
-    // typedef IntRuleTetrahedron LocIntRule;
+    typedef IntRuleTetrahedron LocIntRule;
     
     // Number of sides associated with tetrahedron elements elements
     const static int nSides = 15;
