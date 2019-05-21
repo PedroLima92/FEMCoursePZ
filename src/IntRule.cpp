@@ -6,6 +6,8 @@
 
 #include "IntRule.h"
 #include "tpanic.h"
+#include <iostream>
+
 
 using namespace std;
 
@@ -21,9 +23,7 @@ IntRule::IntRule(int order)
     SetOrder(order);
 };
 
-IntRule::~IntRule(){
-
-};
+IntRule::~IntRule(){};
 
 IntRule &IntRule::operator=(const IntRule &copy)
 {

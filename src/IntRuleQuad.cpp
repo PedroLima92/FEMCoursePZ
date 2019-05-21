@@ -7,18 +7,18 @@
 #include "IntRuleQuad.h"
 #include "tpanic.h"
 
-// IntRuleQuad::IntRuleQuad(){
-//     DebugStop();
-// }
+IntRuleQuad::IntRuleQuad(){
+    DebugStop();
+}
 
-// IntRuleQuad::IntRuleQuad(int order) {
-//     DebugStop();
-// }
+IntRuleQuad::IntRuleQuad(int order) {
+    DebugStop();
+}
 
-// void IntRuleQuad::SetOrder(int order) {
-//     DebugStop();  
-// }
+void IntRuleQuad::SetOrder(int order) {
+    DebugStop();  
+}
 
-// void IntRuleQuad::gaulegQuad(const double x1, const double x2, VecDouble &co, VecDouble &w) {
-//     DebugStop();   
-// }
+void IntRuleQuad::gaulegQuad(const double x1, const double x2, VecDouble &co, VecDouble &w) {
+    DebugStop();   
+}
